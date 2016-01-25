@@ -1,0 +1,17 @@
+{
+    "name": "vendor/getFacebookFeed",
+    "description": "Get All Feed with photo from facebook Page ",
+    "type": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Radosław Tkacz",
+            "email": "radek@onelife.co"
+        }
+    ],
+    "require": {
+        "facebook/php-sdk-v4": "^5.0",
+        "joshcam/mysqli-database-class": "dev-master",
+        "imagine/imagine": "^0.6.3"
+    }
+}
