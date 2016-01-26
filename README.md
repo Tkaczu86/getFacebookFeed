@@ -43,4 +43,4 @@ Training facebook api graph v2.5 - Get all feed in facebook with photo from site
 
 Done. :-)
 
-Start script in your domain -> example: http://www.yourdomain.com/getfeeddata.php
+    Start script in your domain -> example: http://www.yourdomain.com/getfeeddata.php
